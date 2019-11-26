@@ -23,7 +23,10 @@ Currently this thinking and setup is:
 
 **HTTPS via Caddy on the command-line**
 
-With Caddy installed, run `caddy` within project folder.
+- Check for Caddy using `caddy -version` or install from [Caddy](https://caddyserver.com/v1/tutorial/beginner)
+- Update the `root` path in the `caddyfile` 
+- Run `caddy` within project folder
+- NOTE: You may have to proceed through unsafe alert in some browsers 
 
 **HTTP on the command-line**
 
