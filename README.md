@@ -16,7 +16,7 @@ Currently this thinking and setup is:
 ## Install
 
 - Clone the repo
-- Change the remote URL `git remote set-url git@github.com:patrickbower/{NEW REPO NAME}.git`
+- Change the [git remote URL](https://help.github.com/en/github/using-git/changing-a-remotes-url) to use as a renamed repo  
 - Verify using `git remote -v`
 
 ## To Run
